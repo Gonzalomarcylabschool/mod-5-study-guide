@@ -4,7 +4,8 @@
   "description": "OOP-study guide for object-oriented programming.",
   "main": "playground.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play": "nodemon playground.js"
   },
   "author": "",
   "license": "ISC",
